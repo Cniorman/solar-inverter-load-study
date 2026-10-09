@@ -4,7 +4,7 @@ Experimental study of how the efficiency, output voltage, current, power factor 
 
 **Author:** Usman Idris Bala
 **Supervisor:** Prof. Aminu Saidu, Department of Physics, Usmanu Danfodiyo University, Sokoto
-**Report:** B.Sc. Physics project, October 2026 → [`paper/Solar_Inverter_Project_Full_Report.pdf`](paper/Solar_Inverter_Project_Full_Report.pdf)
+**Report:** B.Sc. Physics project, October 2026 → [`paper/Solar_Inverter_Project_Full_Report.pdf`](Solar_Inverter_Project_Full_Report.pdf)
 
 ## What was done
 A single-phase 1000 W inverter, powered from a 12 V deep-cycle battery, was loaded with a resistive load bank at 20, 40, 60, 80 and 100% of rated capacity. At each level the DC input voltage and current, AC output voltage, current and power, power factor and case temperature were recorded (mean of three repeated runs).
